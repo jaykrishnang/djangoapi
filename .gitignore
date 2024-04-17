@@ -1,2 +1,9 @@
 # Environments
 venv/
+
+# Byte-compiled / optimized / DLL files
+djangoapi/db.sqlite3
+djangoapi/djangoapi/__pycache__/__init__.cpython-311.pyc
+djangoapi/djangoapi/__pycache__/settings.cpython-311.pyc
+djangoapi/djangoapi/__pycache__/urls.cpython-311.pyc
+djangoapi/djangoapi/__pycache__/wsgi.cpython-311.pyc
